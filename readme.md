@@ -2,24 +2,7 @@
 
 > Get current wifi name on OS X
 
-
-## Install
-
-```
-$ npm install --save osx-wifi-name
-```
-
-
-## Usage
-
-```js
-var osxWifiName = require('wifi-name');
-
-osxWifiName(function (err, name) {
-	console.log(name);
-	//=> 'wu-tang lan'
-});
-```
+**Deprecated in favor of [wifi-name](https://github.com/kevva/wifi-name).**
 
 
 ## License
